@@ -1,9 +1,9 @@
 default_author:
-  name:           Your Name
+  name:           elpinguino
   picture:        your-photo.jpg
-  email:          your@email.com
+  email:          watchthisspacechristchurch@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Some Details about yourself
+  description:    A person with an idea, who acted on it... that's all.
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
